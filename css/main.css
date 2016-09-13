@@ -1,1 +1,182 @@
-/* Inserte su codigo aqui */
+.fondo {
+    background: url(../img/sobrepiedras.jpg);
+    background-size: cover;
+}
+.cajanav {
+    
+    width: 400px;
+    height: 50px;
+    margin-left: 450px;
+    text-align: center;
+}
+.contacto li {
+    display:inline-block;
+    padding-top: 15px;
+}
+.contacto li a {
+    color:black;
+    opacity: 0.4;
+    text-decoration:none;
+    padding-left: 15px;
+    padding-right: 25px;
+    font-family: 'Quicksand';
+}
+.lab {
+    padding-top: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Quicksand';
+    font-size: 30px;
+    letter-spacing: 5px;
+    color:black;
+    opacity:0.7;
+}
+.subtitle {
+    font-size: 15px;
+    font-family: 'Rajdhani';
+    letter-spacing: 3px;
+    text-align: center;
+    color:black;
+    opacity:0.4;
+    padding-bottom: 130px;
+}
+.gray {
+    background:url(../img/madera.jpg);
+    height:500px;
+    margin-bottom: 30px;
+}
+.cuadros {
+    display:inline-block;
+}
+.foto1 {
+    border-radius: 3px;
+    width:200px;
+    height:200px;
+    text-align: center;
+    margin-top: 30px
+}
+
+.foto4 {
+    border-radius: 3px;
+    width:200px;
+    height:200px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 100px;
+}   
+.title {
+    font-family: 'Quattrocento Sans';
+
+}
+.texto {
+    width:200px;
+    font-family: 'Quicksand';
+    font-size: 14px;
+    padding-top: 20px;
+        
+}
+.texto2 {
+    width:200px;
+    padding-left: 100px;
+    padding-top: 20px;
+    font-family: 'Quicksand';
+}
+.readmore {
+    border-radius: 5px;
+   
+    width:80px;
+    height:12px;
+    position:relative; 
+    background-color:orange;
+    opacity:0.8;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+.readmore a {
+    text-decoration: none;
+    font-size: 10px;
+    color:black;
+    font-family: 'Quicksand';
+    
+}
+.tejidofondo {
+    width:150px;
+    height:400px;
+}
+.blanco {
+    background:url(../img/piedrasplaya.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:550px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.blanco p {
+    text-align: center;
+    font-family: 'Quicksand';
+    padding: 150px 150px;
+}
+.leermas {
+    border-radius: 5px;
+    margin-top: 30px; 
+    width:100px;
+    height:25px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position:relative;
+    left:450px;
+    bottom: 150px;
+    border:1px solid black;   
+    text-align: center;
+}
+.leermas a {
+    font-family: 'Quicksand';
+    text-decoration: none;
+    color:black;
+    t
+}
+.perfil {
+    margin-left:150px;
+    margin-top:50px;
+    width:150px;
+    height:150px;
+}
+.about {
+    text-align: right;
+    font-family: 'Quicksand';
+    padding-left: 40px;
+
+}
+.read {
+    border-radius: 5px;
+    margin-top: 30px; 
+    width:100px;
+    height:25px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position:relative;
+    left:170px;
+    background-color:orange;
+    opacity:0.5;
+
+}
+.read a {
+    text-decoration: none;
+    color:black;
+    font-family: 'Quicksand';
+}
+.end {
+    background-color: black;
+    height:50px;
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Quicksand';
+    font-size: 12px;
+    color:white;
+}
